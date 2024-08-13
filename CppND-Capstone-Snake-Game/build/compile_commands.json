@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/main.cpp.o -c /home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/main.cpp",
+  "file": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/main.cpp"
+},
+{
+  "directory": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/game.cpp.o -c /home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/game.cpp",
+  "file": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/game.cpp"
+},
+{
+  "directory": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/controller.cpp.o -c /home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/controller.cpp",
+  "file": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/controller.cpp"
+},
+{
+  "directory": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/renderer.cpp.o -c /home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/renderer.cpp",
+  "file": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/renderer.cpp"
+},
+{
+  "directory": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++1z -o CMakeFiles/SnakeGame.dir/src/snake.cpp.o -c /home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/snake.cpp",
+  "file": "/home/efesendil/Desktop/CppND-Capstone-Snake-Game/src/snake.cpp"
+}
+]

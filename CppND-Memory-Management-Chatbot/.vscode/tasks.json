@@ -1,0 +1,11 @@
+////https://knowledge.udacity.com/questions/340370
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "g++ build active file",
+            "type": "shell",
+            "command": "cd build && cmake -DCMAKE_BUILD_TYPE=Debug .. && make"
+        }
+    ]
+}
